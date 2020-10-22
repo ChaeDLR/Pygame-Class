@@ -1,5 +1,4 @@
 # Pygame-Class
-___
  Starting assets for Michigan python group pygame class.
 
 
