@@ -1,7 +1,7 @@
 # Pygame-Class
  Starting assets for Michigan python group pygame class.
 
-![demo] (/assets/gamedemo.gif)
+![demo] (https://github.com/ChaeDLR/Pygame-Class/blob/master/assets/gamedemo.gif)
 
 
 ### Mac OS venv
